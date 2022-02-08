@@ -286,6 +286,7 @@ body {
 }
 
 .form_body{
+	margin-left: 50px;
 	left: 150px;
 	right: 150px;
 	position: absolute;
